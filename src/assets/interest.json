@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "into",
+        "level" : 2
+    },
+    {
+        "name" : "curious about",
+        "level" : 1
+    },
+    {
+        "name" : "not applicable",
+        "level" : 0
+    },
+    {
+        "name" : "soft limit",
+        "level" : -1
+    },
+    {
+        "name" : "hard limit",
+        "level" : -2
+    }
+]
